@@ -9,6 +9,7 @@
 
 <body>
     <h2>Hello Developer</h2>
+    <p>lorem</p>
 </body>
 
 </html>
