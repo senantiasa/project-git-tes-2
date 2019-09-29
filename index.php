@@ -10,6 +10,10 @@
 <body>
     <h2>Hello Developer</h2>
     <p>lorem</p>
+    <ul>
+        <li>Hay</li>
+        <li>Apa kabar</li>
+    </ul>
 </body>
 
 </html>
